@@ -1,85 +1,211 @@
 {
-  "companies": [
-    {
-      "id": "2a8d",
-      "name": "ENTNT",
-      "location": "Abu Dhabi",
-      "linkedinProfile": "https://www.linkedin.com/company/entnt",
-      "emails": [
-        "contact@entnt.com"
-      ],
-      "phoneNumbers": [
-        "1231231234"
-      ],
-      "comments": "Outsourcing and Offshoring Consulting",
-      "communicationPeriodicity": "every 2 weeks"
-    },
-    {
-      "id": "716a",
-      "name": "Google",
-      "location": "Banglore",
-      "linkedinProfile": "https://www.linkedin.com/company/google/",
-      "emails": [
-        "support-in@google.com"
-      ],
-      "phoneNumbers": [
-        "9879879876"
-      ],
-      "comments": "Google is an American multinational technology company that specializes in internet-related products and services",
-      "communicationPeriodicity": "every month",
-      "communications": []
-    },
-    {
-      "id": "eae4",
-      "name": "Nithish K S",
-      "location": "Banglore",
-      "linkedinProfile": "https://www.linkedin.com/in/thenithishv/",
-      "emails": [
-        "email@e.com",
-        "email@e.com"
-      ],
-      "phoneNumbers": [
-        "1231231232",
-        "1231231231"
-      ],
-      "comments": "ada",
-      "communicationPeriodicity": "every 2 weeks",
-      "communications": []
-    },
-    {
-      "id": "4eb2",
-      "name": "Rahuk",
-      "location": "Abu Dhabi",
-      "linkedinProfile": "https://www.linkedin.com/in/thenithishv/",
-      "emails": [
-        "a@g.com"
-      ],
-      "phoneNumbers": [
-        "7676767654"
-      ],
-      "comments": "asa",
-      "communicationPeriodicity": "every month"
-    },
-    {
-      "id": "3017",
-      "name": "ENTNT",
-      "location": "India",
-      "linkedinProfile": "https://www.linkedin.com/in/thenithishv/",
-      "emails": [
-        "email@email.com"
-      ],
-      "phoneNumbers": [
-        "1231231234"
-      ],
-      "comments": "hello",
-      "communicationPeriodicity": "every 2 weeks"
-    }
-  ],
+    "companies": [
+      {
+        "id": "2a8d",
+        "name": "ENTNT",
+        "location": "Abu Dhabi",
+        "linkedinProfile": "https://www.linkedin.com/company/entnt",
+        "emails": ["contact@entnt.com"],
+        "phoneNumbers": ["1231231234"],
+        "comments": "Outsourcing and Offshoring Consulting",
+        "communicationPeriodicity": "every 2 weeks"
+      },
+      {
+        "id": "3b9f",
+        "name": "TechNova",
+        "location": "San Francisco",
+        "linkedinProfile": "https://www.linkedin.com/company/technova",
+        "emails": ["info@technova.com"],
+        "phoneNumbers": ["9876543210"],
+        "comments": "AI and Machine Learning solutions",
+        "communicationPeriodicity": "every month"
+      },
+      {
+        "id": "4c1e",
+        "name": "GreenFuture",
+        "location": "London",
+        "linkedinProfile": "https://www.linkedin.com/company/greenfuture",
+        "emails": ["hello@greenfuture.com"],
+        "phoneNumbers": ["5647382910"],
+        "comments": "Renewable Energy Consulting",
+        "communicationPeriodicity": "every 3 weeks"
+      },
+      {
+        "id": "5d2f",
+        "name": "BrightPath",
+        "location": "Berlin",
+        "linkedinProfile": "https://www.linkedin.com/company/brightpath",
+        "emails": ["contact@brightpath.de"],
+        "phoneNumbers": ["1122334455"],
+        "comments": "Education Technology",
+        "communicationPeriodicity": "every 6 weeks"
+      },
+      {
+        "id": "6e3g",
+        "name": "FinEdge",
+        "location": "New York",
+        "linkedinProfile": "https://www.linkedin.com/company/finedge",
+        "emails": ["support@finedge.com"],
+        "phoneNumbers": ["7788990011"],
+        "comments": "FinTech Solutions Provider",
+        "communicationPeriodicity": "weekly"
+      },
+      {
+        "id": "7f4h",
+        "name": "HealthSphere",
+        "location": "Sydney",
+        "linkedinProfile": "https://www.linkedin.com/company/healthsphere",
+        "emails": ["admin@healthsphere.au"],
+        "phoneNumbers": ["3344556677"],
+        "comments": "Healthcare IT Services",
+        "communicationPeriodicity": "every 2 months"
+      },
+      {
+        "id": "8g5i",
+        "name": "EcoLogics",
+        "location": "Toronto",
+        "linkedinProfile": "https://www.linkedin.com/company/ecologics",
+        "emails": ["contact@ecologics.ca"],
+        "phoneNumbers": ["9988776655"],
+        "comments": "Environmental Solutions",
+        "communicationPeriodicity": "monthly"
+      },
+      {
+        "id": "9h6j",
+        "name": "NextGen Labs",
+        "location": "Bangalore",
+        "linkedinProfile": "https://www.linkedin.com/company/nextgenlabs",
+        "emails": ["team@nextgenlabs.in"],
+        "phoneNumbers": ["5566778899"],
+        "comments": "Tech Startup Incubator",
+        "communicationPeriodicity": "every quarter"
+      },
+      {
+        "id": "0i7k",
+        "name": "SolarMax",
+        "location": "Dubai",
+        "linkedinProfile": "https://www.linkedin.com/company/solarmax",
+        "emails": ["support@solarmax.com"],
+        "phoneNumbers": ["1122112211"],
+        "comments": "Solar Panel Manufacturing",
+        "communicationPeriodicity": "every 3 weeks"
+      },
+      {
+        "id": "1j8l",
+        "name": "MarketReach",
+        "location": "Singapore",
+        "linkedinProfile": "https://www.linkedin.com/company/marketreach",
+        "emails": ["info@marketreach.sg"],
+        "phoneNumbers": ["6655443322"],
+        "comments": "Digital Marketing Agency",
+        "communicationPeriodicity": "bi-weekly"
+      },
+      {
+        "id": "2k9m",
+        "name": "CloudTech",
+        "location": "Seattle",
+        "linkedinProfile": "https://www.linkedin.com/company/cloudtech",
+        "emails": ["contact@cloudtech.com"],
+        "phoneNumbers": ["2233445566"],
+        "comments": "Cloud Infrastructure Provider",
+        "communicationPeriodicity": "monthly"
+      },
+      {
+        "id": "3l0n",
+        "name": "SafeNet",
+        "location": "Mumbai",
+        "linkedinProfile": "https://www.linkedin.com/company/safenet",
+        "emails": ["hello@safenet.in"],
+        "phoneNumbers": ["7788994455"],
+        "comments": "Cybersecurity Solutions",
+        "communicationPeriodicity": "every 2 weeks"
+      },
+      {
+        "id": "4m1o",
+        "name": "BrightMind",
+        "location": "Paris",
+        "linkedinProfile": "https://www.linkedin.com/company/brightmind",
+        "emails": ["team@brightmind.fr"],
+        "phoneNumbers": ["5566223344"],
+        "comments": "Mental Health Tech",
+        "communicationPeriodicity": "monthly"
+      },
+      {
+        "id": "5n2p",
+        "name": "AgriSolutions",
+        "location": "Nairobi",
+        "linkedinProfile": "https://www.linkedin.com/company/agrisolutions",
+        "emails": ["info@agrisolutions.co.ke"],
+        "phoneNumbers": ["9988775544"],
+        "comments": "Agricultural Technology",
+        "communicationPeriodicity": "every 4 weeks"
+      },
+      {
+        "id": "6o3q",
+        "name": "UrbanInnovators",
+        "location": "Tokyo",
+        "linkedinProfile": "https://www.linkedin.com/company/urbaninnovators",
+        "emails": ["contact@urbaninnovators.jp"],
+        "phoneNumbers": ["4411223344"],
+        "comments": "Smart City Solutions",
+        "communicationPeriodicity": "every 6 weeks"
+      },
+      {
+        "id": "7p4r",
+        "name": "AquaTech",
+        "location": "Los Angeles",
+        "linkedinProfile": "https://www.linkedin.com/company/aquatech",
+        "emails": ["admin@aquatech.com"],
+        "phoneNumbers": ["6677889900"],
+        "comments": "Water Management Technologies",
+        "communicationPeriodicity": "weekly"
+      },
+      {
+        "id": "8q5s",
+        "name": "MedBridge",
+        "location": "Zurich",
+        "linkedinProfile": "https://www.linkedin.com/company/medbridge",
+        "emails": ["info@medbridge.ch"],
+        "phoneNumbers": ["3344559988"],
+        "comments": "Healthcare Logistics",
+        "communicationPeriodicity": "every month"
+      },
+      {
+        "id": "9r6t",
+        "name": "EduCore",
+        "location": "Melbourne",
+        "linkedinProfile": "https://www.linkedin.com/company/educore",
+        "emails": ["hello@educore.com.au"],
+        "phoneNumbers": ["4455667788"],
+        "comments": "Education Consulting",
+        "communicationPeriodicity": "every 3 weeks"
+      },
+      {
+        "id": "0s7u",
+        "name": "CleanStream",
+        "location": "Amsterdam",
+        "linkedinProfile": "https://www.linkedin.com/company/cleanstream",
+        "emails": ["contact@cleanstream.nl"],
+        "phoneNumbers": ["1122330099"],
+        "comments": "Water Purification",
+        "communicationPeriodicity": "every quarter"
+      },
+      {
+        "id": "1t8v",
+        "name": "GeoMap",
+        "location": "Cape Town",
+        "linkedinProfile": "https://www.linkedin.com/company/geomap",
+        "emails": ["team@geomap.co.za"],
+        "phoneNumbers": ["8899776655"],
+        "comments": "Geospatial Analytics",
+        "communicationPeriodicity": "monthly"
+      }
+    ],
   "communication-methods": [
     {
       "id": "c46c",
       "name": "LinkedIn Message",
-      "description": "We Communicate through LinkedIn Message",
+      "description": "Communicate through LinkedIn Message",
       "sequence": "2",
       "mandatory": true
     },
@@ -108,137 +234,25 @@
       "id": "0cff",
       "name": "Other",
       "description": "We Communicate through Visiting",
-      "sequence": "1",
+      "sequence": "5",
       "mandatory": true,
       "otherName": "Other"
-    },
-    {
-      "id": "9067",
-      "name": "Phone Call",
-      "description": "phone 2",
-      "sequence": "3",
-      "mandatory": true
     }
   ],
-  "communications": [
-    {
-      "id": "1735379779966",
-      "companyId": "2a8d",
-      "communication": {
-        "type": "LinkedIn Message",
-        "date": "2024-12-27",
-        "notes": "Yesterday",
-        "done": true
-      }
-    },
-    {
-      "id": "1735379794906",
-      "companyId": "2a8d",
-      "communication": {
-        "type": "LinkedIn Message",
-        "date": "2024-12-28",
-        "notes": "today",
-        "done": true
-      }
-    },
-    {
-      "id": "1735379804638",
-      "companyId": "2a8d",
-      "communication": {
-        "type": "LinkedIn Message",
-        "date": "2024-12-29",
-        "notes": "tommorow",
-        "done": true
-      }
-    },
-    {
-      "id": "1735545325564",
-      "companyId": "4eb2",
-      "communication": {
-        "type": "Email",
-        "date": "2024-12-31",
-        "notes": "tommorwo",
-        "done": false
-      }
-    },
-    {
-      "id": "1735545337106",
-      "companyId": "4eb2",
-      "communication": {
-        "type": "Email",
-        "date": "2024-12-30",
-        "notes": "today",
-        "done": true
-      }
-    },
-    {
-      "id": "1735545348398",
-      "companyId": "4eb2",
-      "communication": {
-        "type": "Email",
-        "date": "2024-12-29",
-        "notes": "yesterday",
-        "done": true
-      }
-    },
-    {
-      "id": "1735575243451",
-      "companyId": "2a8d",
-      "communication": {
-        "type": "Email",
-        "date": "2024-12-25",
-        "notes": "sqd",
-        "done": false
-      }
-    },
-    {
-      "id": "1735575264134",
-      "companyId": "2a8d",
-      "communication": {
-        "type": "Email",
-        "date": "2024-12-31",
-        "notes": "zx",
-        "done": false
-      }
-    },
-    {
-      "id": "1735586941770",
-      "companyId": "3017",
-      "communication": {
-        "type": "Phone Call",
-        "date": "2024-12-18",
-        "notes": "z",
-        "done": false
-      }
-    }
-  ],
+  "communications": [],
   "users": [
     {
-      "email": "nithish@gmail.com",
+      "email": "user1@gmail.com",
       "Name": "Nithish",
       "Phone": "9899899891",
-      "password": "userpass",
+      "password": "user@123",
       "id": "d071"
-    },
-    {
-      "id": "54f0",
-      "name": "Nithish",
-      "email": "ksn@gmail.com",
-      "phone": "9898989898",
-      "password": "Nithish@27"
-    },
-    {
-      "id": "c7c0",
-      "name": "Nithish",
-      "email": "nithish@nithish.com",
-      "phone": "7897897899",
-      "password": "Nithish@27"
     }
   ],
   "admins": [
     {
-      "email": "admin@admin.com",
-      "password": "Nithish@27",
+      "email": "admin@gmail.com",
+      "password": "admin@123",
       "id": "6f3e"
     }
   ]
