@@ -59,46 +59,6 @@
         "phoneNumbers": ["6677889900"],
         "comments": "Water Management Technologies",
         "communicationPeriodicity": "weekly"
-      },
-      {
-        "id": "8q5s",
-        "name": "MedBridge",
-        "location": "Zurich",
-        "linkedinProfile": "https://www.linkedin.com/company/medbridge",
-        "emails": ["info@medbridge.ch"],
-        "phoneNumbers": ["3344559988"],
-        "comments": "Healthcare Logistics",
-        "communicationPeriodicity": "every month"
-      },
-      {
-        "id": "9r6t",
-        "name": "EduCore",
-        "location": "Melbourne",
-        "linkedinProfile": "https://www.linkedin.com/company/educore",
-        "emails": ["hello@educore.com.au"],
-        "phoneNumbers": ["4455667788"],
-        "comments": "Education Consulting",
-        "communicationPeriodicity": "every 3 weeks"
-      },
-      {
-        "id": "0s7u",
-        "name": "CleanStream",
-        "location": "Amsterdam",
-        "linkedinProfile": "https://www.linkedin.com/company/cleanstream",
-        "emails": ["contact@cleanstream.nl"],
-        "phoneNumbers": ["1122330099"],
-        "comments": "Water Purification",
-        "communicationPeriodicity": "every quarter"
-      },
-      {
-        "id": "1t8v",
-        "name": "GeoMap",
-        "location": "Cape Town",
-        "linkedinProfile": "https://www.linkedin.com/company/geomap",
-        "emails": ["team@geomap.co.za"],
-        "phoneNumbers": ["8899776655"],
-        "comments": "Geospatial Analytics",
-        "communicationPeriodicity": "monthly"
       }
     ],
   "communication-methods": [
