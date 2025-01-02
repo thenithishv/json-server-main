@@ -99,7 +99,208 @@
       "otherName": "Other"
     }
   ],
-  "communications": [],
+  "communications": [
+    {
+      "id": "1735838427959",
+      "companyId": "2a8d",
+      "communication": {
+        "type": "LinkedIn Message",
+        "date": "2025-01-03",
+        "notes": "3rd jan",
+        "done": false
+      }
+    },
+    {
+      "id": "1735838450746",
+      "companyId": "4m1o",
+      "communication": {
+        "type": "LinkedIn Message",
+        "date": "2025-01-03",
+        "notes": "3rd jan",
+        "done": false
+      }
+    },
+    {
+      "id": "1735838469744",
+      "companyId": "4m1o",
+      "communication": {
+        "type": "Phone Call",
+        "date": "2025-01-15",
+        "notes": "15th jan",
+        "done": false
+      }
+    },
+    {
+      "id": "1735838469741",
+      "companyId": "2a8d",
+      "communication": {
+        "type": "Phone Call",
+        "date": "2025-01-15",
+        "notes": "15th jan",
+        "done": false
+      }
+    },
+    {
+      "id": "1735838481910",
+      "companyId": "2a8d",
+      "communication": {
+        "type": "Other",
+        "date": "2025-01-22",
+        "notes": "22nd jan",
+        "done": false
+      }
+    },
+    {
+      "id": "1735838481911",
+      "companyId": "4m1o",
+      "communication": {
+        "type": "Other",
+        "date": "2025-01-22",
+        "notes": "22nd jan",
+        "done": false
+      }
+    },
+    {
+      "id": "1735838498292",
+      "companyId": "2a8d",
+      "communication": {
+        "type": "LinkedIn Message",
+        "date": "2025-01-31",
+        "notes": "31st jan",
+        "done": false
+      }
+    },
+    {
+      "id": "1735838498296",
+      "companyId": "4m1o",
+      "communication": {
+        "type": "LinkedIn Message",
+        "date": "2025-01-31",
+        "notes": "31st jan",
+        "done": false
+      }
+    },
+    {
+      "id": "1735838518900",
+      "companyId": "3l0n",
+      "communication": {
+        "type": "LinkedIn Message",
+        "date": "2025-01-04",
+        "notes": "4th jan",
+        "done": false
+      }
+    },
+    {
+      "id": "1735838518902",
+      "companyId": "5n2p",
+      "communication": {
+        "type": "LinkedIn Message",
+        "date": "2025-01-04",
+        "notes": "4th jan",
+        "done": false
+      }
+    },
+    {
+      "id": "1735838529760",
+      "companyId": "5n2p",
+      "communication": {
+        "type": "Other",
+        "date": "2025-01-16",
+        "notes": "16th jan",
+        "done": false
+      }
+    },
+    {
+      "id": "1735838529758",
+      "companyId": "3l0n",
+      "communication": {
+        "type": "Other",
+        "date": "2025-01-16",
+        "notes": "16th jan",
+        "done": false
+      }
+    },
+    {
+      "id": "1735838542252",
+      "companyId": "5n2p",
+      "communication": {
+        "type": "Phone Call",
+        "date": "2025-01-26",
+        "notes": "26th jan",
+        "done": false
+      }
+    },
+    {
+      "id": "1735838542249",
+      "companyId": "3l0n",
+      "communication": {
+        "type": "Phone Call",
+        "date": "2025-01-26",
+        "notes": "26th jan",
+        "done": false
+      }
+    },
+    {
+      "id": "1735838563964",
+      "companyId": "6o3q",
+      "communication": {
+        "type": "Email",
+        "date": "2025-01-10",
+        "notes": "10th jan",
+        "done": false
+      }
+    },
+    {
+      "id": "1735838563961",
+      "companyId": "7p4r",
+      "communication": {
+        "type": "Email",
+        "date": "2025-01-10",
+        "notes": "10th jan",
+        "done": false
+      }
+    },
+    {
+      "id": "1735838584380",
+      "companyId": "6o3q",
+      "communication": {
+        "type": "LinkedIn Post",
+        "date": "2025-01-24",
+        "notes": "24th jan",
+        "done": false
+      }
+    },
+    {
+      "id": "1735838598818",
+      "companyId": "6o3q",
+      "communication": {
+        "type": "Email",
+        "date": "2025-01-21",
+        "notes": "21st jan",
+        "done": false
+      }
+    },
+    {
+      "id": "1735838612204",
+      "companyId": "7p4r",
+      "communication": {
+        "type": "LinkedIn Post",
+        "date": "2025-01-23",
+        "notes": "23rd jan",
+        "done": false
+      }
+    },
+    {
+      "id": "1735838627481",
+      "companyId": "7p4r",
+      "communication": {
+        "type": "Email",
+        "date": "2025-02-11",
+        "notes": "11th jan",
+        "done": false
+      }
+    }
+  ],
   "users": [
     {
       "email": "user1@gmail.com",
